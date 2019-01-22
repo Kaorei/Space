@@ -1,3 +1,16 @@
-.kiwi {font-size: 12px} <! ID(#) plus puissant que Class(.)>
 
+header img {border-radius: 40px; vertical-align: center}
+
+h1{text-align: center; color : Black; font-size: 60px; font-family:Arial Black}
+
+h2{text-align:center; color : Black; font-size: 20px; font-family:Arial Black}
+
+li{color : Black; font-size: 15px; font-family:Arial Black}
+
+
+
+
+.middle {display: block; margin-left: auto; margin-right: auto;}
+
+.kiwi {font-size: 12px} /*ID(#) plus puissant que Class(.)
 
